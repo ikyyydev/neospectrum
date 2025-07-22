@@ -8,17 +8,17 @@ export const Previewdata: PreviewdataType[] = [
   {
     id: 1,
     name: "Midnight",
-    image: "/img/neo-midnight.png",
+    image: "/img/neospectrum-midnight.png",
   },
   {
     id: 2,
     name: "Mystic",
-    image: "/img/neo-mystic.png",
+    image: "/img/neospectrum-mystic.png",
   },
   {
     id: 3,
     name: "Glacier",
-    image: "/img/neo-glacier.png",
+    image: "/img/neospectrum-glacier.png",
   },
 ];
 
